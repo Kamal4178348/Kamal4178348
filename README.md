@@ -1,4 +1,4 @@
-## # Hi, I'm Kamal Ahmed 👋
+# Hi, I'm Kamal Ahmed 👋
 
 Computer Science student at the Faculty of Computers, May University, interested in Artificial Intelligence.
 
@@ -10,7 +10,7 @@ Computer Science student at the Faculty of Computers, May University, interested
 - Building my foundation in programming and AI
 
 ## 📫 Connect with me
-- LinkedIn: [(https://www.linkedin.com/in/kamal-ahmed-392a66440)]
+- LinkedIn: https://www.linkedin.com/in/kamal-ahmed-392a66440
 
 <!--
 **Kamal4178348/Kamal4178348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
